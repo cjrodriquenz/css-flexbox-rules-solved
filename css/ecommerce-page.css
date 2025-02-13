@@ -36,12 +36,6 @@ section {
   margin: 0 auto;
 }
 
-.header-content {
-}
-
-.logo-search {
-}
-
 .logo {
   min-width: max-content;
   font-size: 28px;
@@ -68,9 +62,6 @@ section {
 
 .search-bar i {
   color: #8d8ba5;
-}
-
-.options {
 }
 
 .option {
@@ -108,9 +99,6 @@ section {
   background-color: #d5ef9a;
   border: 1px solid #d5ef9a;
   color: #1f1f27;
-}
-
-.view-options {
 }
 
 i.fa-th-list {
